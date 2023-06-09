@@ -92,5 +92,9 @@ https://github.com/x1sec/commit-stream
 - CSV
 - Custom shell script
 
+## Similar scraping
+ - https://www.gharchive.org/
 
+For leak discovery, check -
+- https://github.com/CIRCL/AIL-framework
 
